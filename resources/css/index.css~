@@ -1,0 +1,55 @@
+#navbarSupportedContent li {
+	margin-left: 80px;
+}
+
+
+#right-menu button{
+	width: 150px;
+	
+}
+
+#search-box {
+	width: 70%;
+	display: inline;
+}
+
+
+#login:hover a {
+	color: blue;
+}
+
+#sell:hover a {
+	color: blue;
+}
+
+#test1 {
+	background-color: black;
+	
+}
+
+#left-bar {
+	background-color: darkgreen;
+}
+
+img {
+	#display: inline;
+	margin-left: 10px;
+	width: 140px;
+	height: 120px;
+}
+
+hr {
+	margin: 0;
+}
+
+#header-2 li {
+	margin-left: 80px;
+	
+}
+#header-2 a {
+	color:black;
+}
+
+#n2 {
+	background-color: #D4D4D4;
+}
